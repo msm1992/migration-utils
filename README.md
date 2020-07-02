@@ -1,6 +1,6 @@
 # migration-utils
 ----------------CREATE DATABASES--------------
-source /home/sachini/wso2/2020/3.2.0_migration/3.1-3.2_migration_tests/utils/create_db_mysql.sql
+source /home/sachini/wso2/2020/3.2.0_migration/3.1-3.2_migration_tests/migration-utils/create_db_mysql.sql
 
 ----------------CONFIGURE APIM 3.1.0------------------
 
@@ -12,6 +12,10 @@ tenant1 : test.com
 
 ----------------MIGRATE DBs-----------------
 source /home/sachini/wso2/2020/3.2.0_migration/3.1-3.2_migration_tests/utils/migration-scripts/migration-3.1.0_to_3.2.0/mysql.sql
+
+
+----------------RUN REG INDEX SQL-----------------
+source /home/sachini/wso2/2020/3.2.0_migration/3.1-3.2_migration_tests/migration-utils/resources/reg-index.sql
 
 
 TEST CUSTOM AUTH HEADER

@@ -30,7 +30,7 @@ update_db_configs() {
 copy_db_connector_to_lib() {
 	if [[ "mysql" == $1 ]]
 	then
-		cp /home/sachini/wso2/2020/3.2.0_migration/3.1-3.2_migration_tests/utils/resources/db_connectors/mysql/mysql-connector-java-5.1.35-bin.jar $2
+		cp /home/sachini/wso2/2020/3.2.0_migration/3.1-3.2_migration_tests/migration-utils/resources/db_connectors/mysql/mysql-connector-java-5.1.35-bin.jar $2
 		echo "Copied mysql connector jar to lib..."
 	fi 
 }
