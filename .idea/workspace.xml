@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9689f8b-b3b4-44ef-8a55-8fe107d79f7a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-client/org.wso2.carbon.apimgt.migrate.client-3.0.x-2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/db_connectors/mysql/mysql-connector-java-5.1.35-bin.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config_changes.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/create_db_mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/db2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/h2-sample-data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/mysql_cluster.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/oracle_rac.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/apimgt/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/db2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/informix.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/h2-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/migration-3.0.0_to_3.1.0/oracle-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/migration-3.1.0_to_3.2.0/h2-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/migration-3.1.0_to_3.2.0/mssql-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/migration-3.1.0_to_3.2.0/mysql-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/migration-3.1.0_to_3.2.0/oracle-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/migration-3.1.0_to_3.2.0/oracle-rac-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/migration-3.1.0_to_3.2.0/postgresql-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/mssql-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/mysql-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/oracle-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/oracle-rac-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mb-store/postgresql-mb.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/metrics/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/metrics/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/metrics/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/metrics/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/metrics/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.0.0_to_1.2.0/instructions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.0.0_to_1.2.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/rxt/api.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/utils/APIDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/utils/DBUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.2.0_to_1.3.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/APIComment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/APICommentIdComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/ApiDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/DBUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/utils/ApiDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/utils/DBUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/apimgt_db/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/apimgt_db/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/apimgt_db/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/instructions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/userstore_db/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/userstore_db/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/userstore_db/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.4.0_to_1.5.0/userstore_db/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/endpoint-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/endpoint-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/endpoint-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.5.0_to_1.6.0/rxt/api.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/api-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/api-migration/src/org/wso2/carbon/api/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/doc-file-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/doc-file-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/doc-file-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/rxt/api.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/rxt/documentation.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/swagger-resource-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/swagger-resource-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.6.0_to_1.7.0/swagger-resource-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/utils/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/utils/ResourceUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/multi-dc/oracle/Readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/multi-dc/oracle/apimgt/sequences.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/multi-dc/oracle/apimgt/tables.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/multi-dc/oracle/sequences.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/multi-dc/oracle/tables.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/mysql_cluster.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/oracle_rac.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbscripts/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/APICategories/category_util.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/APIs/api_utils.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/APIs/resources/custom_auth_token.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Applications/app_data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Applications/app_utils.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Applications/populate_app_data.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Scopes/populate_scope_data.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Scopes/scope_data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Scopes/scopes_util.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Throttling/populate_throttle_data.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Throttling/throttle_data.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feature_utils/Throttling/throttle_utils.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migrate.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.0.0_to_1.2.0/instructions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.0.0_to_1.2.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/rxt/api.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/utils/APIDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/api_rxt_migration_client/src/org/wso2/carbon/registry/migration/utils/DBUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.2.0_to_1.3.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/APIComment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/APICommentIdComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/ApiDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/api_comments_ratings_migration_client/src/org/wso2/carbon/registry/migration/utils/DBUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/utils/ApiDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.3.0_to_1.4.0/swagger_resource_migration_script/src/org/wso2/carbon/registry/migration/utils/DBUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/apimgt_db/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/apimgt_db/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/apimgt_db/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/instructions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/userstore_db/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/userstore_db/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/userstore_db/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.4.0_to_1.5.0/userstore_db/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/endpoint-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/endpoint-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/endpoint-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.5.0_to_1.6.0/rxt/api.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/api-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/api-migration/src/org/wso2/carbon/api/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/doc-file-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/doc-file-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/doc-file-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/rxt/api.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/rxt/documentation.rxt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/swagger-resource-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/swagger-resource-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.6.0_to_1.7.0/swagger-resource-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/utils/CommandHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/utils/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-1.7.0_to_1.8.0/swagger-doc-migration/src/org/wso2/carbon/registry/migration/utils/ResourceUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/db2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/versioning-disable-scripts/db2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/versioning-disable-scripts/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/versioning-disable-scripts/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/versioning-disable-scripts/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/versioning-disable-scripts/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-2.6.0_to_3.0.0/versioning-disable-scripts/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/db2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/versioning-disable-scripts/db2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/versioning-disable-scripts/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/versioning-disable-scripts/mssql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/versioning-disable-scripts/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/versioning-disable-scripts/oracle.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.0.0_to_3.1.0/versioning-disable-scripts/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.1.0_to_3.2.0/h2.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.1.0_to_3.2.0/mysql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/migration-3.1.0_to_3.2.0/postgresql.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/scripts/resource_level_throttling_test.jmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/scripts/tenant_Creation/tennant_and_role_creation.jmx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/migration-scripts/updates/product.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/request.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="config_changes.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config_changes.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_db_mysql.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create_db_mysql.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="324">
+                <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1853" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9689f8b-b3b4-44ef-8a55-8fe107d79f7a" name="Default" comment="" />
+      <created>1593169302578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593169302578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25262576" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config_changes.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_db_mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_changes.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_db_mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="324">
+            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

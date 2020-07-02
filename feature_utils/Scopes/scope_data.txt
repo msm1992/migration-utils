@@ -1,0 +1,20 @@
+Token Details for migration_user user
+Token Response for Topken with Scope
+{"consumerKey":"Y2qu2Dc3yDfxpywBkjzyiD7Cij0a","consumerSecret":"AnXzZxKWnHRoG1NHbyTnlMjpQXMa","supportedGrantTypes":["refresh_token","urn:ietf:params:oauth:grant-type:saml2-bearer","password","client_credentials","iwa:ntlm","urn:ietf:params:oauth:grant-type:device_code","urn:ietf:params:oauth:grant-type:jwt-bearer"],"callbackUrl":null,"keyState":"APPROVED","keyType":"PRODUCTION","groupId":null,"token":{"accessToken":"452ba930-2668-315c-8c2d-ea916f0cda37","tokenScopes":["TestScope","am_application_scope"],"validityTime":9223372036854775},"additionalProperties":null}
+Token Response for Topken without Scope\n
+{"accessToken":"ef678394-399e-34de-9177-c4ac5eada071","tokenScopes":["am_application_scope","default"],"validityTime":9223372036854775}
+Token Details for migration_user@test.com user
+Token Response for Topken with Scope
+{"consumerKey":"pSB2a9UhjCIROshmJVRf1ISasa8a","consumerSecret":"wd6EGY0g_sWmxPPfOviR_gFA01Ya","supportedGrantTypes":["refresh_token","urn:ietf:params:oauth:grant-type:saml2-bearer","password","client_credentials","iwa:ntlm","urn:ietf:params:oauth:grant-type:device_code","urn:ietf:params:oauth:grant-type:jwt-bearer"],"callbackUrl":null,"keyState":"APPROVED","keyType":"PRODUCTION","groupId":null,"token":{"accessToken":"fd1b6dfb-1049-3585-812c-8918d0964f1d","tokenScopes":["TestScope","am_application_scope"],"validityTime":9223372036854775},"additionalProperties":null}
+Token Response for Topken without Scope\n
+{"accessToken":"2a6ab063-ad94-3d8c-b791-9d51d5a870b3","tokenScopes":["am_application_scope","default"],"validityTime":9223372036854775}
+Token Details for migration_user user
+Token Response for Topken with Scope
+{"consumerKey":"fqashbqLaXSZ_JDeTHcOcOQIwVoa","consumerSecret":"uz6MhvrXsPDRccOvQlpIZkfpz9Ya","supportedGrantTypes":["refresh_token","urn:ietf:params:oauth:grant-type:saml2-bearer","password","client_credentials","iwa:ntlm","urn:ietf:params:oauth:grant-type:device_code","urn:ietf:params:oauth:grant-type:jwt-bearer"],"callbackUrl":null,"keyState":"APPROVED","keyType":"PRODUCTION","groupId":null,"token":{"accessToken":"b9b1103d-d0f0-39f3-8219-2ca3fc81c597","tokenScopes":["TestScope","am_application_scope"],"validityTime":9223372036854775},"additionalProperties":null}
+Token Response for Topken without Scope\n
+{"accessToken":"9565c837-0833-37a1-98d8-a1c805406728","tokenScopes":["am_application_scope","default"],"validityTime":9223372036854775}
+Token Details for migration_user@test.com user
+Token Response for Topken with Scope
+{"consumerKey":"crQSvOR4bIVRbCJ6CbiuEIPWjNEa","consumerSecret":"qdm3zfZEqVKQxRrIp4eal6ytCJYa","supportedGrantTypes":["refresh_token","urn:ietf:params:oauth:grant-type:saml2-bearer","password","client_credentials","iwa:ntlm","urn:ietf:params:oauth:grant-type:device_code","urn:ietf:params:oauth:grant-type:jwt-bearer"],"callbackUrl":null,"keyState":"APPROVED","keyType":"PRODUCTION","groupId":null,"token":{"accessToken":"87988e65-c3a9-3170-83a5-c421cdba3183","tokenScopes":["TestScope","am_application_scope"],"validityTime":9223372036854775},"additionalProperties":null}
+Token Response for Topken without Scope\n
+{"accessToken":"a241f860-adab-339b-8069-a6953dd3d7c2","tokenScopes":["am_application_scope","default"],"validityTime":9223372036854775}
